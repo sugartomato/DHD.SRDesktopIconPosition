@@ -1,0 +1,9 @@
+D:\DHD\GitHub\ProjectRelease\DHD.SRDesktopIconPosition\KK.SARIcon.exe
+D:\DHD\GitHub\ProjectRelease\DHD.SRDesktopIconPosition\KK.SARIcon.pdb
+D:\DHD\GitHub\DHD.SRDesktopIconPosition\KK.SARIcon\obj\Release\KK.SARIcon.csproj.AssemblyReference.cache
+D:\DHD\GitHub\DHD.SRDesktopIconPosition\KK.SARIcon\obj\Release\KK.SARIcon.frmMain.resources
+D:\DHD\GitHub\DHD.SRDesktopIconPosition\KK.SARIcon\obj\Release\KK.SARIcon.Properties.Resources.resources
+D:\DHD\GitHub\DHD.SRDesktopIconPosition\KK.SARIcon\obj\Release\KK.SARIcon.csproj.GenerateResource.cache
+D:\DHD\GitHub\DHD.SRDesktopIconPosition\KK.SARIcon\obj\Release\KK.SARIcon.csproj.CoreCompileInputs.cache
+D:\DHD\GitHub\DHD.SRDesktopIconPosition\KK.SARIcon\obj\Release\KK.SARIcon.exe
+D:\DHD\GitHub\DHD.SRDesktopIconPosition\KK.SARIcon\obj\Release\KK.SARIcon.pdb
